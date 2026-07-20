@@ -42,4 +42,4 @@ sequence-detector-access-code-lock
 ├── sequence_detect_synth.v
 └── images
     ├── gtkwave.png
-    └── yosys_schematic.png
+    └── netlist schematic.png
